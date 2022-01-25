@@ -1,0 +1,15 @@
+Durante o último vídeo foi aprendido sobre tipografia e como utilizar fontes na construção de um projeto digital. O Figma permite que os designers alterem as propriedades das fontes para que consigam manipulá-las a seu favor. Dentre essas propriedades estão a família tipográfica, peso, tamanho, entreletra, entrelinha e alinhamento do parágrafo.
+
+Saber manipular esses elementos ao próprio favor é essencial para que um designer consiga comunicar o que a plataforma executa ou não. Para isso, existem algumas regras a serem seguidas sobre cada um desses elementos.
+
+**Família tipográfica**: É essencial que durante a escolha da família tipográfica sejam pensados outros aspectos do projeto. Devem ser feitas algumas perguntas como "O que o sistema deseja comunicar?"; "Quem é o usuário que utilizará?"; "Qual conceito visual desejo transmitir ao usuário?". Pensado nesses aspectos devem ser escolhidas famílias tipográficas que se encaixem com o conceito do projeto. Outra dica importante é utilizar poucas famílias tipográficas, criando um padrão visual que vai se repetir ao longo do projeto.
+
+**Peso**: O peso de uma fonte determina que tipo de voz é dada ao texto em questão. Quando se deseja enfatizar uma informação normalmente usa-se um peso maior, como Medium, Bold ou Black. Para textos corridos o peso Regular é sempre uma boa opção pois traz mais conforto de leitura para o usuário. Uma outra questão a ser analisada na escolha da família tipográfica é se ela tem diversos pesos para que o designer tenha mais possibilidades em sua criação.
+
+**Tamanho**: Assim como o peso, o tamanho da fonte consegue criar um padrão visual no sistema. É importante que seja definido anteriormente ao início do projeto quais os tamanhos de títulos, quais os tamanhos de texto corrido, quais os tamanhos de legendas, etc. Dessa maneira o sistema consegue ter um padrão visual facilmente reconhecido pelos usuários.
+
+**Entreletra**: A entreletra ajuda o designer a se comunicar melhor com o usuário final. Se por exemplo for uma entreletra mais apertada, o texto fica com um aspecto de mais proximidade, fica mais condensado. O uso de uma entreletra mais espaçada dá a sensação visual de uma maior separação entre os elementos.
+
+**Entrelinha**: A entrelinha ajuda o usuário a ter noções distintas na interface. Ela se comporta da mesma maneira que a entreletra: quanto mais espaçada, mais noção de separação. Quanto mais apertada, mais noção de junção. Para um texto corrido é muito importante utilizar uma entrelinha mais espaçada, que proporciona um maior conforto para o usuário na leitura.
+
+**Alinhamento de parágrafo**: Existem alguns tipos de alinhamento, são eles: texto alinhado à esquerda, texto alinhado à direita, texto centralizado e texto justificado. Deve-se utilizar com sabedoria o alinhamento a fim comunicar funções distintas do sistema de design.

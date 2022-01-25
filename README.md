@@ -16,6 +16,7 @@ URL do curso -> [Figma: Design Visual de um Site Mobile](https://cursos.alura.co
 * [Behance](https://www.behance.net/) - Site para buscar referências de design.
 * [MockFlow](https://www.mockflow.com/) - Site para design rápido de layouts de rascunho.
 * [Figma](https://www.figma.com/) - Site do Figma para criar protótipos de páginas.
+* [Google Fonts](https://fonts.google.com/) - Site de fontes do Google.
 
 ## Siglas &#x1F5FA;
 * **UX** - **U**ser E**x**perience - Experiência do usuário.
@@ -30,9 +31,17 @@ URL do curso -> [Figma: Design Visual de um Site Mobile](https://cursos.alura.co
 * Mexer a área de trabalho:
     * 1º: Segurar *SPACE*.
     * 2º: Segurando o mouse, mover para a direção desejada.
+* Alinhar elementos:
+    * 1º: Segurar *SHIFT*.
+    * 2º: Arrastar o elemento.
 * Dar zoom in ou zoom out na tela:
     * *CTRL* + *+* para dar zoom in.
     * *CTRL* + *-* para dar zoom out.
+* Criar uma forma perfeita:
+    * 1º: Selecionar a ferramenta da figura que se quer desenhar.
+    * 2º: Segurar *SHIFT*.
+    * 3º: Arrastar o mouse.
+
 <hr>
 
 ## 01 - Pesquisa e Organização
@@ -64,3 +73,17 @@ URL do curso -> [Figma: Design Visual de um Site Mobile](https://cursos.alura.co
 ### 04 - Abrindo o Figma e Criando Grids
 * O que é **Figma**.
 * Como criar novas *Páginas* no **Figma**.
+
+## 03 - Criação do Wireframe
+
+### 01 - Criando Formas
+* Criar o esboço de um aplicativo mobile utilizando formas.
+* Criar retângulos e circulos.
+* Arredondar as bordas de uma figura.
+* Criar **Frames** e mexer com sua largura e altura.
+
+### 02 - Tipografia
+* Adicionar *texto* ao projeto do **Figma**.
+* Adicionar **fontes** ao texto direto do aplicativo do **Figma**.
+
+### 03 - ícones

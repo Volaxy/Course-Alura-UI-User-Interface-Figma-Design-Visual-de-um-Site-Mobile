@@ -1,0 +1,1 @@
+Para colar um texto dentro do programa do Figma sem usar a formatação do texto anterior, basta inserir o comando **Ctrl + Shift + V**. Desta maneira podemos escolher se queremos ou não usar formatações anteriores no Figma de maneira fácil.
