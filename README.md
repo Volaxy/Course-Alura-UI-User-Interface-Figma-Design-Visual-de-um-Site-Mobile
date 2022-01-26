@@ -17,6 +17,9 @@ URL do curso -> [Figma: Design Visual de um Site Mobile](https://cursos.alura.co
 * [MockFlow](https://www.mockflow.com/) - Site para design rápido de layouts de rascunho.
 * [Figma](https://www.figma.com/) - Site do Figma para criar protótipos de páginas.
 * [Google Fonts](https://fonts.google.com/) - Site de fontes do Google.
+* [Flaticon](https://www.flaticon.com/br/) - Site para achar ícones.
+* [Font Awesome](https://fontawesome.com/) - Site para mais ícones.
+* [Material Design](https://material.io/) - Site de ícones e outros recursos.
 
 ## Siglas &#x1F5FA;
 * **UX** - **U**ser E**x**perience - Experiência do usuário.
@@ -87,3 +90,4 @@ URL do curso -> [Figma: Design Visual de um Site Mobile](https://cursos.alura.co
 * Adicionar **fontes** ao texto direto do aplicativo do **Figma**.
 
 ### 03 - ícones
+* Adicionar **ícones** através do **Material Design** da **Google**.
