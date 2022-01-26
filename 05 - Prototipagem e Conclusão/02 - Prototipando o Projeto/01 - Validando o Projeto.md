@@ -1,0 +1,9 @@
+É muito importante no processo do Design Digital que o produto projetado seja validado com uma amostragem de usuários finais antes de ser implementado de fato. Para isso, é necessário conhecer quem são os possíveis usuários do sistema e criar testes de usabilidade para compreender melhor as ações que eles esperam desempenhar na interface.
+
+Uma maneira interessante de criar testes é utilizando ferramentas de prototipagem que transformem o projeto em algo navegável, com diversas telas e ações. Além da própria ferramenta do Figma para prototipação, há alguns programas no mercado que oferecem essa possibilidade. Os mais famosos são o [Marvel App](https://marvelapp.com/) e o [InVision](https://www.invisionapp.com/). Neles é possível criar os protótipos e propor testes com usuários.
+
+Ao realizar um teste de usabilidade é muito importante que o designer saiba explicar de forma concisa o que deve ser feito e pensar nas opções de layout que estão sendo testadas. Além disso, é importante deixar o usuário confortável, enfatizando que o teste é para o aplicativo e não para o usuário, deixando-o mais cômodo e menos pressionado.
+
+Existem finalidades diferentes para o teste com usuário. Pode-se, por exemplo, identificar erros e o que não funciona em uma plataforma ou testar opções diferentes de interface.
+
+Para testes de diferentes usabilidades é importante isolar o caso que deseja-se testar. Por exemplo: em uma plataforma desejo entender se a melhor opção para um botão seria um ícone ou um texto. Nesse caso é importante que ambas as telas projetadas para o teste sejam idênticas com uma única diferença: o elemento que se deseja testar. Dessa maneira é possível identificar com exatidão qual seria a melhor solução.

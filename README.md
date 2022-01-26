@@ -114,3 +114,6 @@ URL do curso -> [Figma: Design Visual de um Site Mobile](https://cursos.alura.co
 ### 04 - Heurísticas de Nielsen - Parte 2
 * **Reconhecimento ao Invés de Memorização**: O usuário não precisa memorizar a posição dos botões ou os aspectos deles, ou cards e outros elementos da tela.
 * **Estética Minimalista**: Acesso rápido aos elementos da interface.
+
+## 05 - Prototipagem e Conclusão
+* Criar Triggers.
