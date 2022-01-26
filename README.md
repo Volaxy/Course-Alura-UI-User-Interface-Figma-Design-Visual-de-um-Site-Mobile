@@ -20,6 +20,9 @@ URL do curso -> [Figma: Design Visual de um Site Mobile](https://cursos.alura.co
 * [Flaticon](https://www.flaticon.com/br/) - Site para achar ícones.
 * [Font Awesome](https://fontawesome.com/) - Site para mais ícones.
 * [Material Design](https://material.io/) - Site de ícones e outros recursos.
+* [Adobe Color](https://color.adobe.com/) - Site para selecionar conjunto de cores.
+* [Unsplash](https://unsplash.com/) - Site para procurar imagens bonitas.
+* [Diverse UI](https://diverseui.com/) - Site para pegar imagens de rostos de pessoas.
 
 ## Siglas &#x1F5FA;
 * **UX** - **U**ser E**x**perience - Experiência do usuário.
@@ -91,3 +94,23 @@ URL do curso -> [Figma: Design Visual de um Site Mobile](https://cursos.alura.co
 
 ### 03 - ícones
 * Adicionar **ícones** através do **Material Design** da **Google**.
+
+## 04 - Inserindo Conteúdo Realista
+
+### 01 - Cores
+* Utilizar **cores** para estilizar a aparência do aplicativo.
+* Usar o *conta-gotas* para copiar cores de outros elementos.
+
+### 02 - Imagens
+* Inserir **Imagens** utilizando sites externo como base.
+* Inserir uma **Imagem** como plano de fundo de um elemento.
+
+### 03 - Heurísticas de Nielsen - Parte 1
+* As **Heurísticas de Nielsen** assumem as seguintes regras:
+    * **Visibilidade do Status do Sistema**: Mostrar para o usuário onde ele se encontra e para onde ele pode ir.
+    * **Compatibilidade entre o Sistema e o Mundo Real**: Ter um indioma comum entre os usuários, ou seja, utilizar algo que todos os usuários de qualquer lugar iriam entender.
+    * **Controle e Liberdade para o Usuário**: Dar saídas para o usuário para algo que ele não deseja, como recuperar e-mails.
+
+### 04 - Heurísticas de Nielsen - Parte 2
+* **Reconhecimento ao Invés de Memorização**: O usuário não precisa memorizar a posição dos botões ou os aspectos deles, ou cards e outros elementos da tela.
+* **Estética Minimalista**: Acesso rápido aos elementos da interface.
